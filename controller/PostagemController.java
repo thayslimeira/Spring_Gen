@@ -23,7 +23,6 @@ import com.blogpessoal.blogpessoal.model.Postagem;
 import com.blogpessoal.blogpessoal.repository.PostagemRepository;
 import com.blogpessoal.blogpessoal.repository.TemaRepository;
 
-import net.bytebuddy.dynamic.DynamicType.Builder.FieldDefinition.Optional;
 
 @RestController
 @RequestMapping("/postagem")
